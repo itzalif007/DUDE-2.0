@@ -1,3 +1,3 @@
 import os, sys
 try:
-    __import__("NKDUDE").menu()
+    __import__("NKDUDE").Ahameed7()
